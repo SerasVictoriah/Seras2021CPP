@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: 01c3ad990c5b71149b49fd771d5bd637
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3227364754257394610
+    second: Arthur_Idle
+  - first:
+      213: -1523631463738609925
+    second: Arthur_Run
+  - first:
+      213: 8813995070921749591
+    second: Arthur_Run2
+  - first:
+      213: -2759983077213836181
+    second: Arthur_Run3
+  - first:
+      213: 7493433787456852887
+    second: Arthur_Run4
+  - first:
+      213: -8430118414555521220
+    second: Arthur_Run5
+  - first:
+      213: -947308421510884253
+    second: Arthur_Run6
+  - first:
+      213: -2978466868216451295
+    second: Core Mechnics Arthur_7
+  - first:
+      213: -8330422157445065486
+    second: Arthur_Jump
+  - first:
+      213: -3753163563492575693
+    second: Arthur_DoubleJump
+  - first:
+      213: -3454834927842533923
+    second: Core Mechnics Arthur_10
+  - first:
+      213: 772177384228978899
+    second: Core Mechnics Arthur_11
+  - first:
+      213: 5335508200222514701
+    second: Arthur_Roll
+  - first:
+      213: -1617386538171900428
+    second: Arthur_Roll2
+  - first:
+      213: -3073172182024432649
+    second: Arthur_Roll3
+  - first:
+      213: -5090507740870314860
+    second: Arthur_Throw
+  - first:
+      213: 8467499927632529759
+    second: Arthur_Throw2
+  - first:
+      213: 3883012573959095357
+    second: Core Mechnics Arthur_17
+  - first:
+      213: -3519297623608273367
+    second: Core Mechnics Arthur_18
+  - first:
+      213: -1967254613095009373
+    second: Core Mechnics Arthur_19
+  - first:
+      213: -3160701995154153467
+    second: Core Mechnics Arthur_20
+  - first:
+      213: 5793921818517821055
+    second: Core Mechnics Arthur_21
+  - first:
+      213: -6098780196808266530
+    second: Core Mechnics Arthur_22
+  - first:
+      213: 2145410933212149562
+    second: Core Mechnics Arthur_23
+  - first:
+      213: 2889496935833692313
+    second: Core Mechnics Arthur_24
+  - first:
+      213: 3841120339147689613
+    second: Core Mechnics Arthur_25
+  - first:
+      213: 2554911493273489235
+    second: Core Mechnics Arthur_26
+  - first:
+      213: -3580696038291608456
+    second: Core Mechnics Arthur_27
+  - first:
+      213: 481687969399851738
+    second: Core Mechnics Arthur_28
+  - first:
+      213: 7337181504025477709
+    second: Core Mechnics Arthur_29
+  - first:
+      213: 5849254722276859578
+    second: Core Mechnics Arthur_30
+  - first:
+      213: -2479961556461768263
+    second: Core Mechnics Arthur_31
+  - first:
+      213: 7613646458159070511
+    second: Core Mechnics Arthur_32
+  - first:
+      213: 9169524369911680185
+    second: Core Mechnics Arthur_33
+  - first:
+      213: 4638488164811119918
+    second: Core Mechnics Arthur_34
+  - first:
+      213: 2455577807924872093
+    second: Core Mechnics Arthur_35
+  - first:
+      213: 5666346580793196496
+    second: Core Mechnics Arthur_36
+  - first:
+      213: 7993215253771584647
+    second: Core Mechnics Arthur_37
+  - first:
+      213: -525261329476429420
+    second: Core Mechnics Arthur_38
+  - first:
+      213: 8478967889681662134
+    second: Core Mechnics Arthur_39
+  - first:
+      213: 6417341837440458899
+    second: Core Mechnics Arthur_40
+  - first:
+      213: 60218961375902184
+    second: Core Mechnics Arthur_41
+  - first:
+      213: -1786705534814615537
+    second: Core Mechnics Arthur_42
+  - first:
+      213: 2161438810545821880
+    second: Core Mechnics Arthur_43
+  - first:
+      213: 7849864631752164384
+    second: Core Mechnics Arthur_44
+  - first:
+      213: -8127062112419148750
+    second: Core Mechnics Arthur_45
+  - first:
+      213: -7223107051133190566
+    second: Core Mechnics Arthur_46
+  - first:
+      213: 1063432159087410275
+    second: Core Mechnics Arthur_47
+  - first:
+      213: -1023313029037026066
+    second: Core Mechnics Arthur_48
+  - first:
+      213: 3338700615302928398
+    second: Core Mechnics Arthur_49
+  - first:
+      213: 6233984630642704423
+    second: Core Mechnics Arthur_50
+  - first:
+      213: 1798527077296980057
+    second: Core Mechnics Arthur_52
+  - first:
+      213: -3186127940012051894
+    second: Core Mechnics Arthur_54
+  - first:
+      213: -8310925441882850004
+    second: Core Mechnics Arthur_59
+  - first:
+      213: -170935873671648000
+    second: Core Mechnics Arthur_60
+  - first:
+      213: -6862604868429821695
+    second: Core Mechnics Arthur_61
+  - first:
+      213: -940378164096612641
+    second: Core Mechnics Arthur_62
+  - first:
+      213: -7467985256011996153
+    second: Core Mechnics Arthur_63
+  - first:
+      213: 7576780362276446510
+    second: Core Mechnics Arthur_64
+  - first:
+      213: -6298060769074900958
+    second: Core Mechnics Arthur_65
+  - first:
+      213: 3202363069954041038
+    second: Core Mechnics Arthur_66
+  - first:
+      213: -7037456114771815378
+    second: Core Mechnics Arthur_67
+  - first:
+      213: -8266019689468851640
+    second: Core Mechnics Arthur_68
+  - first:
+      213: -6452840359458248359
+    second: Core Mechnics Arthur_69
+  - first:
+      213: 6076176705042944429
+    second: Core Mechnics Arthur_70
+  - first:
+      213: 8830376811625612910
+    second: Core Mechnics Arthur_71
+  - first:
+      213: -6036322803065563018
+    second: Core Mechnics Arthur_72
+  - first:
+      213: 6056160416233482860
+    second: Core Mechnics Arthur_73
+  - first:
+      213: 4659541246470321326
+    second: Core Mechnics Arthur_74
+  - first:
+      213: -1801325672050704795
+    second: Core Mechnics Arthur_75
+  - first:
+      213: -6666836037727011241
+    second: Core Mechnics Arthur_76
+  - first:
+      213: 9020065699021037158
+    second: Core Mechnics Arthur_77
+  - first:
+      213: -1898054423063262524
+    second: Core Mechnics Arthur_78
+  - first:
+      213: -2984507149772295724
+    second: Core Mechnics Arthur_79
+  - first:
+      213: -5325701526849190530
+    second: Core Mechnics Arthur_80
+  - first:
+      213: 5423081512973756620
+    second: Core Mechnics Arthur_81
+  - first:
+      213: 645188883995188305
+    second: Core Mechnics Arthur_82
+  - first:
+      213: -3535941900380780834
+    second: Core Mechnics Arthur_83
+  - first:
+      213: 1839289156963814980
+    second: Core Mechnics Arthur_84
+  - first:
+      213: -977957100780293055
+    second: Core Mechnics Arthur_85
+  - first:
+      213: -3730831053663537043
+    second: Core Mechnics Arthur_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arthur_Idle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbb02a0527e9cc20800000000000000
+      internalID: 3227364754257394610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 542
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe604b9149fadae0800000000000000
+      internalID: -1523631463738609925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 542
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b55681d9915a70800000000000000
+      internalID: 8813995070921749591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 542
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6498a30292b9d0800000000000000
+      internalID: -2759983077213836181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 542
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7939649e3560ef760800000000000000
+      internalID: 7493433787456852887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 540
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f50f577f3320b80800000000000000
+      internalID: -8430118414555521220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Run6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 540
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649b1b720c7ad2f0800000000000000
+      internalID: -947308421510884253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 517
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f20b8f92c5aa6d0800000000000000
+      internalID: -2978466868216451295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Jump
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 506
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4917c2f25646c80800000000000000
+      internalID: -8330422157445065486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_DoubleJump
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 507
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f516cf951aebc0800000000000000
+      internalID: -3753163563492575693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 506
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd555800f5fd00d0800000000000000
+      internalID: -3454834927842533923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 506
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d00f826d3357ba00800000000000000
+      internalID: 772177384228978899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Roll
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 509
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e527a70788b0a40800000000000000
+      internalID: 5335508200222514701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Roll2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 510
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd3c74383ed89e0800000000000000
+      internalID: -1617386538171900428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Roll3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 509
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f352dcce26e955d0800000000000000
+      internalID: -3073172182024432649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Throw
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 461
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947c0b2e22ea59b0800000000000000
+      internalID: -5090507740870314860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_Throw2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 463
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59ce2a425a928570800000000000000
+      internalID: 8467499927632529759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 467
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d340539ec5b33e530800000000000000
+      internalID: 3883012573959095357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 457
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d3f51571f82fc0800000000000000
+      internalID: -3519297623608273367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 452
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a339b33a58e2b4e0800000000000000
+      internalID: -1967254613095009373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 446
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e7f1184ee224d0800000000000000
+      internalID: -3160701995154153467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 446
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76d3294235286050800000000000000
+      internalID: 5793921818517821055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 429
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc6e0649b7cc5ba0800000000000000
+      internalID: -6098780196808266530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 429
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37795b70e706cd10800000000000000
+      internalID: 2145410933212149562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 429
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99862f7672e891820800000000000000
+      internalID: 2889496935833692313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0d6ae8966e4530800000000000000
+      internalID: 3841120339147689613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 381
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0125777ed47320800000000000000
+      internalID: 2554911493273489235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 381
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ceafcacefce4ec0800000000000000
+      internalID: -3580696038291608456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 381
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada48a4f7ac4fa600800000000000000
+      internalID: 481687969399851738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 381
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42410034b7e2d560800000000000000
+      internalID: 7337181504025477709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9612ed2abc2150800000000000000
+      internalID: 5849254722276859578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 379
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b8729a18659dd0800000000000000
+      internalID: -2479961556461768263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7bf76d1b19a960800000000000000
+      internalID: 7613646458159070511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 346
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8fdb05d1b04f70800000000000000
+      internalID: 9169524369911680185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 344
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9b6ef8683f5040800000000000000
+      internalID: 4638488164811119918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 345
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c1bf8107f31220800000000000000
+      internalID: 2455577807924872093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 346
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df7d629138e2ae40800000000000000
+      internalID: 5666346580793196496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 346
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840a466cea9dee60800000000000000
+      internalID: 7993215253771584647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 342
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499de429a95e5b8f0800000000000000
+      internalID: -525261329476429420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 303
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04b664f585ba570800000000000000
+      internalID: 8478967889681662134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 304
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39024ee866afe0950800000000000000
+      internalID: 6417341837440458899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 304
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9bd8983d0f5d000800000000000000
+      internalID: 60218961375902184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 295
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08862f48c85437e0800000000000000
+      internalID: -1786705534814615537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8935a7529fefd10800000000000000
+      internalID: 2161438810545821880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 283
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248d7eca4250fc60800000000000000
+      internalID: 7849864631752164384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 283
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c88b95110e63f80800000000000000
+      internalID: -8127062112419148750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 271
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e369a186e52cb90800000000000000
+      internalID: -7223107051133190566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 271
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb1251ae112ce00800000000000000
+      internalID: 1063432159087410275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 271
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4183ac8367cc1f0800000000000000
+      internalID: -1023313029037026066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08528a3582755e20800000000000000
+      internalID: 3338700615302928398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72004b41eff838650800000000000000
+      internalID: 6233984630642704423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 233
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950453909d6a5f810800000000000000
+      internalID: 1798527077296980057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 233
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4272a6f48998c3d0800000000000000
+      internalID: -3186127940012051894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 209
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df0d10859a9ac80800000000000000
+      internalID: -8310925441882850004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 209
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d2e628ab6b0adf0800000000000000
+      internalID: -170935873671648000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109cf575b3123c0a0800000000000000
+      internalID: -6862604868429821695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cc76ca0b13f2f0800000000000000
+      internalID: -940378164096612641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704ec8b0af26c5890800000000000000
+      internalID: -7467985256011996153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a4a29891262960800000000000000
+      internalID: 7576780362276446510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220977d591bc898a0800000000000000
+      internalID: -6298060769074900958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a07ace34117c20800000000000000
+      internalID: 3202363069954041038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2410ac13fee55e90800000000000000
+      internalID: -7037456114771815378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a03de33e2394d80800000000000000
+      internalID: -8266019689468851640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 68
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ef26b1e7e276a0800000000000000
+      internalID: -6452840359458248359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19690358ae25450800000000000000
+      internalID: 6076176705042944429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668ac1cceccb8a70800000000000000
+      internalID: 8830376811625612910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_72
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 68
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678dfa5746caa3ca0800000000000000
+      internalID: -6036322803065563018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 68
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae068cfcdcb0450800000000000000
+      internalID: 6056160416233482860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f42c83140aa040800000000000000
+      internalID: 4659541246470321326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e30a858d76007e0800000000000000
+      internalID: -1801325672050704795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e328332f3aa73a0800000000000000
+      internalID: -6666836037727011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 42
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e95d086f5bd2d70800000000000000
+      internalID: 9020065699021037158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_78
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca84fcfe81c8a5e0800000000000000
+      internalID: -1898054423063262524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 41
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d175345f86e496d0800000000000000
+      internalID: -2984507149772295724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7506689dae4716b0800000000000000
+      internalID: -5325701526849190530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_81
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e9c047e7a24b40800000000000000
+      internalID: 5423081512973756620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c50932fdb24f800800000000000000
+      internalID: 645188883995188305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_83
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64269639fcdeec0800000000000000
+      internalID: -3535941900380780834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4e084eb7768910800000000000000
+      internalID: 1839289156963814980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447b62c2399d62f0800000000000000
+      internalID: -977957100780293055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core Mechnics Arthur_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6873696cec693cc0800000000000000
+      internalID: -3730831053663537043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
