@@ -5,7 +5,11 @@ using UnityEditor;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
+
+    
+
 {
+
     static GameManager _instance = null;
 
     public static GameManager instance
@@ -38,9 +42,10 @@ public class GameManager : MonoBehaviour
             currentCanvas = FindObjectOfType<CanvasManager>();
             if (_lives > value)
             {
-                Respawn();
+                //Respawn();
             }
             _lives = value;
+            
 
 
 
@@ -52,8 +57,13 @@ public class GameManager : MonoBehaviour
             if (_lives < 0)
             {
                 //game over code goes here
+                
                 //death animation - into load scene
-                SceneManager.LoadScene("GameOver");
+                //SceneManager.LoadScene("GameOver");
+                playerInstance.GetComponent<Player_Movement>().IsDead();
+
+                Invoke("EndGame", 1f);
+
             }
 
             Debug.Log("Current Lives Are: " + _lives);
@@ -122,6 +132,12 @@ public class GameManager : MonoBehaviour
             SpawnPlayer(spawnLocation);
         }
     }
+
+    public void EndGame()
+    {
+        SceneManager.LoadScene("GameOver");
+    }
+
 
     public void Respawn()
     {

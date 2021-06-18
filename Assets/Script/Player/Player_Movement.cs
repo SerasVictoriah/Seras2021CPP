@@ -112,8 +112,11 @@ public class Player_Movement : MonoBehaviour
 
     public void IsDead()
     {
+        Debug.Log("I am Ded");
+        anim.SetBool("isDead", true);
 
     }
+
 
 
     private void OnTriggerEnter2D(Collider2D collision)

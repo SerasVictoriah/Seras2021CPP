@@ -103,4 +103,6 @@ public class EnemyWalker : MonoBehaviour
     {
         Destroy(gameObject.transform.parent.gameObject);
     }
+
+
 }

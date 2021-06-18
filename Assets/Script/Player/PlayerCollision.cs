@@ -10,6 +10,7 @@ public class PlayerCollision : MonoBehaviour
         {
             GameManager.instance.lives--;
             Destroy(collision.gameObject);
+
         }
 
 
