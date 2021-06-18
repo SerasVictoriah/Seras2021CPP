@@ -1,7 +1,0 @@
-Good afternoon Mr.Ata,
-The controls are as follows
-Left and right arrow to move
-Space to Jump
-and "e" to attack
-Thank you
-Chantelle
